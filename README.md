@@ -8,6 +8,4 @@ LK-99 is a new material that exhibits superconducting properties at room tempera
 
 ```bash
 git clone https://github.com/ntfargo/lk99.git
-``` 
-
-⚠️ **Warning:** This project is still in development. ⚠️
+```
