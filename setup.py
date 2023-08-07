@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lk99',
-    version='0.1.0',
+    version='0.0.2',
     description='Simulation and Analysis of LK-99 Superconductor',
     author='Nathan Fargo',
     author_email='ntfargo@proton.me',
