@@ -19,7 +19,10 @@ pip install .
 - Developing a simulation for the superconducting properties of the material and creating a phase diagram.
 
 This project is hobby at my free time and require additional data to proceed further with the implementation!
- 
+
+I recommend to check this repository also: 
+https://github.com/me2d09/lk99
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
