@@ -1,5 +1,5 @@
 import numpy as np
-from materials import Material, Reaction, RawMaterials
+from synthesis.materials import Material, Reaction
 
 class SolidStateSynthesis:
     def __init__(self, raw_materials):

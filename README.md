@@ -26,6 +26,9 @@ https://github.com/me2d09/lk99
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+# Test results
+![phase](/data/test_1.png)
+
 # Arxiv
 
 - https://arxiv.org/abs/2307.12008

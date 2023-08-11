@@ -46,3 +46,17 @@ class RawMaterials:
     def list_materials(self):
         for material in self.materials.values():
             print(material)
+            
+    def calculate_totals(self):
+        total_quantity = 0
+        total_moles = 0
+        output = "Raw Materials:\n"
+
+        for material in self.materials.values():
+            total_quantity += material.quantity_grams
+            total_moles += material.molar_quantity()
+            output += str(material) + "\n"
+
+        output += f"Total Quantity: {total_quantity} g\n"
+        output += f"Total Moles: {total_moles} mol"
+        return output
