@@ -19,7 +19,8 @@ setup(
         'sympy>=1.8',
         'h5py>=3.3.0',
         'pytest>=6.2.0',
-        'jupyter>=1.0.0'
+        'jupyter>=1.0.0',
+        'pyxtal>=0.5.9'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
